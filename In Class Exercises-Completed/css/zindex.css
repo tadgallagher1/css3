@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {color:#ffffff;}
+p{color:#ff0000;}
+
+img {
+	
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:  -1;
+}
+
+section{
+	
+	
+	margin:340px 0px 0px 0px;
+	height:200px;
+	background: #ff0000;
+	background: linear-gradient(red ,yellow);
+
+}

@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color:#FFF;}
+#container { width:700px; margin:0 auto;}
+
+#header { width:100%; height:60px; border-bottom:1px solid #7C7; background-color:#FFF; color:#000; border:thin; border-style:solid;}
+#col { width:100%; border:1px solid #333; background-color:#000; color:#FFF;}
+#footer { width:663px; clear:both; padding:20px;background-color:#666; color:#FFF;}

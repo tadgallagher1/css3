@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background:url(../images/tree.png)
+	no-repeat;
+	background-position: left top;
+}
+

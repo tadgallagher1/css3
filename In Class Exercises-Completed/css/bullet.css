@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ol {
+	list-style-type:upper-roman;
+}
+
+ul {
+	list-style-image:url(../images/bullet-black.png);
+}
+

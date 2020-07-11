@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+#grad1 {
+    height: 100px;
+    background: -webkit-linear-gradient(0deg, red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(0deg, red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(0deg, red, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(0deg, red, blue); /* Standard syntax (must be last) */
+}
+
+#grad2 {
+    height: 100px;
+    background: -webkit-linear-gradient(90deg, red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(90deg, red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(90deg, red, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(90deg, red, blue); /* Standard syntax (must be last) */
+}
+
+#grad3 {
+    height: 100px;
+    background: -webkit-linear-gradient(180deg, red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(180deg, red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(180deg, red, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(180deg, red, blue); /* Standard syntax (must be last) */
+}
+
+#grad4 {
+    height: 100px;
+    background: -webkit-linear-gradient(-90deg, red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg, red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg, red, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, red, blue); /* Standard syntax (must be last) */
+}
+

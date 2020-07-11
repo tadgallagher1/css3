@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+	background: #E1D016;
+	width:100%;
+}
+	
+	
+body {
+	width:80%;
+background:white;
+margin: 0 auto;
+}
+header 
+{
+	height:70px;
+	background: #EAEAEA;
+	margin-bottom:1em;
+	margin-top:2em;
+}
+nav{
+	height:50px;
+	margin-bottom:1em;
+	background:#A9D5A8;
+}
+	aside 
+	{
+		float:left;
+		background:#89D9F5;
+		width:27%;
+		height:250px;
+	}
+	
+	article {
+		float:right;
+		width:71%;
+		background:#eeeeee;
+			height:250px;
+	}
+	footer {
+		clear:both;
+		background: #8A8787;
+		margin-top:2em;
+		color:white;
+		height:50px;
+	}
+		
+

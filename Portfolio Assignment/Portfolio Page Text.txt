@@ -1,0 +1,35 @@
+Header:
+
+Your Name
+
+Heading
+Web Developer
+
+Navigation: 
+About  Contact Resume (HTML)  Resume (Word)  Resume (PDF)
+
+Heading
+Samples
+
+Links/Bullets:
+
+Safety
+
+Landon Hotel
+
+Javascript
+
+JQuery
+
+PHP
+
+My SQL
+
+Bootstrap
+
+Wordpress
+
+Capstone
+
+Photoshop
+Copyright © 2016
